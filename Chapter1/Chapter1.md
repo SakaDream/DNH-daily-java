@@ -13,7 +13,7 @@ Như đã hưa trong topic [Dự định viết tutorial về java](https://dayn
   
 
 ## Cách tải Java
-Phiên bản mới nhất của java: [Java Website](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+Phiên bản JDK 8: [Java Website](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 ## Cài đặt java
 Trên Windows: Bạn tải java từ link trên rồi chạy file .exe bạn vừa tải. Lúc chạy được cái installer rồi thì cứ next là xong :slight_smile:
