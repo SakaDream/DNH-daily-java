@@ -50,11 +50,11 @@ Chắc hẳn câu nói vỡ lòng của bao lập trình viên là: "Hello World
 
 Sử dụng trình soạn thảo bất kỳ và viết code ở phía dưới:
 
-```
+```java
 public class FirstProgram {
-	public static void main(String args[]) {
-	System.out.println("Hello DNH");
-	}
+    public static void main(String args[]) {
+        System.out.println("Hello DNH");
+    }
 }
 ```
 
