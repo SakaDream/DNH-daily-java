@@ -10,10 +10,17 @@
 
 - Vũ Cao Minh a.k.a Aragami1408
 - Sinh năm 2004
-- Thích học lập trình, biết Java, .NET
-- Thích xem anime, chơi game âm nhạc
+- Biết lập trình Java | Kotlin | C++
+- Có thể làm game với Unity Engine
+- Có thể làm game với Spring, React và Redux
+- Biết hai ngôn ngữ: Anh và Nhật
+- Thích xem anime, chơi game âm nhạc, chơi Untertale và đọc sách
 
-Liên hệ với tác giả tại: [Aragami1408 on DNH](https://daynhauhoc.com/u/harrycoder/summary)
+Liên hệ với tác giả:
+
+- [Dạy Nhau Học](https://daynhauhoc.com/u/harrycoder/summary)
+- [Github](https://github.com/Aragami1408)
+- [Reddi](https://www.reddit.com/user/Aragami1408/)
 
 ## Hướng dẫn đóng góp
 
