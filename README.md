@@ -20,7 +20,7 @@ Liên hệ với tác giả:
 
 - [Dạy Nhau Học](https://daynhauhoc.com/u/harrycoder/summary)
 - [Github](https://github.com/Aragami1408)
-- [Reddi](https://www.reddit.com/user/Aragami1408/)
+- [Reddit](https://www.reddit.com/user/Aragami1408/)
 
 ## Hướng dẫn đóng góp
 
