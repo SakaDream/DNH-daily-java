@@ -1,6 +1,6 @@
 Như đã hứa trong topic [Dự định viết tutorial về java](https://daynhauhoc.com/t/du-dinh-viet-tutorial-ve-java/65262), hôm nay ngày 3/5/2018 mình xin ra lò series Daily Java.
 
-# Chapter 1. Getting Started with Java
+# Day 1. Getting Started with Java
 
 Ở đây chúng ta thảo luận về những thứ liên quan đến Java:
 
@@ -18,7 +18,7 @@ Phiên bản JDK 8: [Java Website](http://www.oracle.com/technetwork/java/javase
 
 ## Cài đặt java
 
-- **Trên Windows**: Bạn tải java từ link trên rồi chạy file .exe bạn vừa tải. Lúc chạy được cái installer rồi thì cứ next là xong :slight_smile:
+- **Trên Windows**: Bạn tải java từ link trên rồi chạy file .exe bạn vừa tải. Lúc chạy được cái installer rồi thì cứ next là xong :slight_smile:. Nếu vẫn không thành công thì qua link này: [Cài đặt và cấu hình Java](https://o7planning.org/vi/10377/huong-dan-cai-dat-va-cau-hinh-java)
 
 - **Trên Mac**: Sử dụng homebrew để cài đặt:
 
