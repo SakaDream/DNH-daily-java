@@ -4,7 +4,7 @@
 
 ## Mục lục
 
-- [Chapter 1: Getting Started with Java](Chapter1/README.md) (2018-05-03)
+- [Day 1: Getting Started with Java](Day1/README.md) (2018-05-03)
 
 ## Tác giả
 
@@ -12,8 +12,8 @@
 - Sinh năm 2004
 - Biết lập trình Java | Kotlin | C++
 - Có thể làm game với Unity Engine
-- Có thể làm game với Spring, React và Redux
-- Biết hai ngôn ngữ: Anh và Nhật
+- Có thể làm webapp với Spring, React và Redux
+- Biết hai ngoại ngữ: Anh và Nhật
 - Thích xem anime, chơi game âm nhạc, chơi Untertale và đọc sách
 
 Liên hệ với tác giả:
